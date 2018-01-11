@@ -21,7 +21,6 @@
 - https://www.crypto-news.net/
 - https://cointelegraph.com/
 - https://bitcoinmagazine.com/
-
 - [CryptoList](https://github.com/coinpride/CryptoList)
 
 ## Communities 
