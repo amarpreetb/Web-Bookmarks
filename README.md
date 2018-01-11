@@ -9,9 +9,6 @@
 - [Reddit Technology](https://www.reddit.com/r/technology/)
 
 ## Crypto News
-
-- [CryptoList](https://github.com/coinpride/CryptoList)
-
 - https://www.ccn.com/
 - https://www.bitcoin.com/
 - http://cryptosource.org/
@@ -24,6 +21,8 @@
 - https://www.crypto-news.net/
 - https://cointelegraph.com/
 - https://bitcoinmagazine.com/
+
+- [CryptoList](https://github.com/coinpride/CryptoList)
 
 ## Communities 
 - [Stack Overflow](https://stackoverflow.com/)
