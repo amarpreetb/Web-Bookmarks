@@ -9,18 +9,6 @@
 - [Reddit Technology](https://www.reddit.com/r/technology/)
 
 ## Crypto News
-- https://www.ccn.com/
-- https://www.bitcoin.com/
-- http://cryptosource.org/
-- http://coinalert.eu/
-- http://bits.ca/
-- http://www.xbt.money/
-- https://www.blockchaindailynews.com/
-- https://themerkle.com/
-- https://www.coindesk.com
-- https://www.crypto-news.net/
-- https://cointelegraph.com/
-- https://bitcoinmagazine.com/
 - [CryptoList](https://github.com/coinpride/CryptoList)
 
 ## Communities 
